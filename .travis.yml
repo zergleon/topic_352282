@@ -7,3 +7,9 @@ node_js:
 branches:
   only:
     - master
+
+deploy:
+  provider: heroku
+  app: "topic-352282"
+  api_key:
+    secure: "1ad5c19a-0d82-4da6-a24a-947355c4d6df"
