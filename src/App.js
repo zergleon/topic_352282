@@ -19,33 +19,33 @@ function App() {
 	<div className="card">
             <div className="card-img">
                 <img
-                        src="https://mochamanstyle.com/wp-content/uploads/2015/10/2016-BMW-M2-Coupe.jpg"
-                        alt="BMW M2 Coupe">
+                        src="https://article.images.consumerreports.org/w_598,h_436/prod/content/dam/cro/news_articles/cars/2016-Audi-TT-pr-1-2016-598"
+                        alt="Audi TT">
                 </img>
             </div>
-            <h3>BMW M2 Coupe</h3>
+            <h3>Audi TT</h3>
+            <p>180000</p>
+        </div>,
+	
+	<div className="card">
+            <div className="card-img">
+                <img
+                        src="http://cdn-ds.com/stock/2017-Bentley-Continental-GT-V8-Coupe--Beverly-Hills-CA/seo/VAMP16966-SCBFT7ZA0HC061335/sz_108215/image-1.jpg"
+                        alt="Rolls Royce">
+                </img>
+            </div>
+            <h3>Rolls Royce</h3>
             <p>20000</p>
         </div>,
 	
 	<div className="card">
             <div className="card-img">
                 <img
-                        src="https://mochamanstyle.com/wp-content/uploads/2015/10/2016-BMW-M2-Coupe.jpg"
-                        alt="BMW M2 Coupe">
+                        src="https://auto.ndtvimg.com/car-images/big/mercedes-amg/gle-coupe/mercedes-amg-gle-coupe.jpg?v=2"
+                        alt="Mercedes amg coupe">
                 </img>
             </div>
-            <h3>BMW M2 Coupe</h3>
-            <p>20000</p>
-        </div>,
-	
-	<div className="card">
-            <div className="card-img">
-                <img
-                        src="https://mochamanstyle.com/wp-content/uploads/2015/10/2016-BMW-M2-Coupe.jpg"
-                        alt="BMW M2 Coupe">
-                </img>
-            </div>
-            <h3>BMW M2 Coupe</h3>
+            <h3>Mercedes amg coupe</h3>
             <p>20000</p>
         </div>	
   );
