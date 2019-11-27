@@ -5,6 +5,7 @@ import './styles.css'
 
 function App() {
   return (
+    <div className="list">
 	<div className="card">
             <div className="card-img">
 	    	<img 
@@ -48,6 +49,7 @@ function App() {
             <h3>Mercedes amg coupe</h3>
             <p>20000</p>
         </div>	
+    </div>
   );
 }
 
