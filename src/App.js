@@ -31,17 +31,6 @@ function App() {
 	<div className="card">
             <div className="card-img">
                 <img
-                        src="http://cdn-ds.com/stock/2017-Bentley-Continental-GT-V8-Coupe--Beverly-Hills-CA/seo/VAMP16966-SCBFT7ZA0HC061335/sz_108215/image-1.jpg"
-                        alt="Rolls Royce">
-                </img>
-            </div>
-            <h3>Rolls Royce</h3>
-            <p>20000</p>
-        </div>,
-	
-	<div className="card">
-            <div className="card-img">
-                <img
                         src="https://auto.ndtvimg.com/car-images/big/mercedes-amg/gle-coupe/mercedes-amg-gle-coupe.jpg?v=2"
                         alt="Mercedes amg coupe">
                 </img>
